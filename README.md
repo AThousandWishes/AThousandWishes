@@ -16,7 +16,6 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-000)
 ![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=PyCharm)
-![stats](https://github-readme-stats.vercel.app/api?username=AThousandWishes&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,333333,666666)
 
 
 ---
